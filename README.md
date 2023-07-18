@@ -1,3 +1,3 @@
 **Regression-Project**
 
-Regression Problem on Time Series Forcasting
+Regression Problem on Time Series Forecasting
